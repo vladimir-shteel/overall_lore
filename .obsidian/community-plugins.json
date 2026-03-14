@@ -1,5 +1,6 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-timelines"
+  "obsidian-timelines",
+  "obsidian-leaflet-plugin"
 ]
